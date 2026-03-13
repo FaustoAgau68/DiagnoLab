@@ -33,7 +33,6 @@ if (urlParamsSuccess.get("login") === "success") {
     }
 }
 
-
 const params = new URLSearchParams(window.location.search);
 const errorMsg = document.getElementById("output-text");
 if (params.get("error") === "invalid" && errorMsg) {

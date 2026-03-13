@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     try {
         $hostDB = "127.0.0.1";        // or "127.0.0.1"
         $usernameDB = "root";         // your MySQL username
-        $passwordDB = "Posterd68#";             // your MySQL password (set in MySQL Workbench)
+        $passwordDB = "##########";             // your MySQL password (set in MySQL Workbench)
         $database = "diagnoLabDB";       // the database name you created in Workbench
 
         // Create connection

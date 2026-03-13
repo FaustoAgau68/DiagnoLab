@@ -39,7 +39,6 @@ navbar-nav li {
     background-image: linear-gradient(to right, #464c9c, #e3e4e4);
     color: #fff;
     padding-top: 5%;
-
 }
 
 .title {
@@ -65,7 +64,6 @@ navbar-nav li {
 }
 
 /*---------Services section-------------*/
-
 #services {
     padding: 80px 0;
 }
@@ -93,7 +91,6 @@ navbar-nav li {
     text-decoration-color: rgb(91, 91, 202);
     text-decoration-thickness: 2px;
     text-underline-offset: 20px;
-
 }
 
 .btn-primary {
@@ -102,7 +99,6 @@ navbar-nav li {
     border-radius: 20px;
     background-image: linear-gradient(to right, #464c9c, #e3e4e4);
 }
-
 
 /* ----------about us section------------- */
 #about-us {
